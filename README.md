@@ -1,3 +1,5 @@
+To install
+
 ```bash
 $ npm i
 
@@ -5,6 +7,8 @@ $ npm -g webpack-dev-server
 
 $ webpack-dev-server
 ```
+
+Load `http://localhost:8080`
 
 For hot module reload
 
